@@ -1,1 +1,1 @@
-https://ptemashalane.netlify.app/
+https://pte-mashalane.netlify.app/
