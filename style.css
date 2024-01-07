@@ -217,6 +217,14 @@ section {
   cursor: pointer;
   height: 2rem;
 }
+.icon-Qr-code {
+  cursor: pointer;
+  height: 8rem;
+}
+
+.QR-code{
+  height: 3rem;
+}
 
 /* BUTTONS */
 
